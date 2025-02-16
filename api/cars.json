@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Mercedes-Benz w124 500e",
+    "discription": "Info for cars",
+    "image": "./imgJson/mercedes-500e.jpg",
+    "price": 80.000
+  },
+  {
+    "id": 2,
+    "title": "Mercedes-Benz w124 500e",
+    "discription": "Info for cars",
+    "image": "./imgJson/mercedes-500e.jpg",
+    "price": 80.000
+  },
+  {
+    "id": 3,
+    "title": "Mercedes-Benz w124 500e",
+    "discription": "Info for cars",
+    "image": "./imgJson/mercedes-500e.jpg",
+    "price": 80.000
+  },
+  {
+    "id": 4,
+    "title": "Mercedes-Benz w124 500e",
+    "discription": "Info for cars",
+    "image": "./imgJson/mercedes-500e.jpg",
+    "price": 80.000
+  },
+  {
+    "id": 5,
+    "title": "Mercedes-Benz w124 500e",
+    "discription": "Info for cars",
+    "image": "./imgJson/mercedes-500e.jpg",
+    "price": 80.000
+  },
+  {
+    "id": 6,
+    "title": "Mercedes-Benz w124 500e",
+    "discription": "Info for cars",
+    "image": "./imgJson/mercedes-500e.jpg",
+    "price": 80.000
+  },
+  {
+    "id": 7,
+    "title": "Mercedes-Benz w124 500e",
+    "discription": "Info for cars",
+    "image": "./imgJson/mercedes-500e.jpg",
+    "price": 80.000
+  }
+]
