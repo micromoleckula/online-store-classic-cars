@@ -1,51 +1,65 @@
 [
   {
-    "id": 1,
-    "title": "Mercedes-Benz w124 500e",
-    "discription": "Info for cars",
-    "image": "./imgJson/mercedes-500e.jpg",
-    "price": 80.000
-  },
-  {
-    "id": 2,
-    "title": "Mercedes-Benz w124 500e",
-    "discription": "Info for cars",
-    "image": "./imgJson/mercedes-500e.jpg",
-    "price": 80.000
-  },
-  {
-    "id": 3,
-    "title": "Mercedes-Benz w124 500e",
-    "discription": "Info for cars",
-    "image": "./imgJson/mercedes-500e.jpg",
-    "price": 80.000
-  },
-  {
-    "id": 4,
-    "title": "Mercedes-Benz w124 500e",
-    "discription": "Info for cars",
-    "image": "./imgJson/mercedes-500e.jpg",
-    "price": 80.000
+    "id": 5,
+    "title": " 1990 Mercedes-Benz w124 500e",
+    "description": "Dnipro, second owner, excellent condition",
+    "mileage": "90.000",
+    "engine": "5.0",
+    "image": "images/imgJson/mercedes-500e.jpg",
+    "price": "80.000"
   },
   {
     "id": 5,
     "title": "Mercedes-Benz w124 500e",
-    "discription": "Info for cars",
-    "image": "./imgJson/mercedes-500e.jpg",
-    "price": 80.000
+    "description": "Dnipro, second owner, excellent condition",
+    "mileage": "90.000",
+    "engine": "5.0",
+    "image": "images/imgJson/mercedes-500e.jpg",
+    "price": "80.000"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "Mercedes-Benz w124 500e",
-    "discription": "Info for cars",
-    "image": "./imgJson/mercedes-500e.jpg",
-    "price": 80.000
+    "description": "Dnipro, second owner, excellent condition",
+    "mileage": "90.000",
+    "engine": "5.0",
+    "image": "images/imgJson/mercedes-500e.jpg",
+    "price": "80.000"
   },
   {
-    "id": 7,
+    "id": 5,
     "title": "Mercedes-Benz w124 500e",
-    "discription": "Info for cars",
-    "image": "./imgJson/mercedes-500e.jpg",
-    "price": 80.000
+    "description": "Dnipro, second owner, excellent condition",
+    "mileage": "90.000",
+    "engine": "5.0",
+    "image": "images/imgJson/mercedes-500e.jpg",
+    "price": "80.000"
+  },
+  {
+    "id": 5,
+    "title": "Mercedes-Benz w124 500e",
+    "description": "Dnipro, second owner, excellent condition",
+    "mileage": "90.000",
+    "engine": "5.0",
+    "image": "images/imgJson/mercedes-500e.jpg",
+    "price": "80.000"
+  },
+  {
+    "id": 5,
+    "title": "Mercedes-Benz w124 500e",
+    "description": "Dnipro, second owner, excellent condition",
+    "mileage": "90.000",
+    "engine": "5.0",
+    "image": "images/imgJson/mercedes-500e.jpg",
+    "price": "80.000"
+  },
+  {
+    "id": 5,
+    "title": "Mercedes-Benz w124 500e",
+    "description": "Dnipro, second owner, excellent condition",
+    "mileage": "90.000",
+    "engine": "5.0",
+    "image": "images/imgJson/mercedes-500e.jpg",
+    "price": "80.000"
   }
 ]

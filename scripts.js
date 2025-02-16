@@ -1,8 +1,8 @@
-import headerMenu from './js/headerMenu.js';
-import articlesCars from './js/articles.js';
+import {headerMenu} from "./js/headerMenu.js";
+import {articlesCars} from "./js/articles.js";
 
-articlesCars();
 headerMenu();
+articlesCars();
 /* document.addEventListener('DOMContentLoaded', () => {
   const header = document.querySelector('.header');
   window.addEventListener('scroll', () => {
