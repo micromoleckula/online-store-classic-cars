@@ -2,7 +2,7 @@
   {
     "id": 1,
     "make": "Mercedes-Benz",
-    "title": "1991 Mercedes-Benz 300E",
+    "title": "Mercedes-Benz 300E",
     "description": "Impala Brown Metallic, Mostly Unmodified",
     "mileage": "220,900",
     "engine": "3.0",
@@ -22,7 +22,7 @@
   {
     "id": 2,
     "make": "Lexus",
-    "title": "2006 Lexus LS 430",
+    "title": "Lexus LS 430",
     "description": "Ultra Luxury Selection Package, Strutmasters Conversion Kit, Mostly California-Owned",
     "mileage": "125,800",
     "engine": "4.3",
@@ -42,7 +42,7 @@
   {
     "id": 3,
     "make": "Mercedes-Benz",
-    "title": "1999 Mercedes-Benz SL500",
+    "title": "Mercedes-Benz SL500",
     "description": "Single Family-Owned, V8 Power, Mostly Unmodified",
     "mileage": "65,000",
     "engine": "5.0",
@@ -62,7 +62,7 @@
   {
     "id": 4,
     "make": "Mercedes-Benz",
-    "title": "2006 Mercedes-Benz C55 AMG",
+    "title": "Mercedes-Benz C55 AMG",
     "description": "362-hp V8, Premium Package, Some Modifications, Texas-Owned",
     "mileage": "210,500",
     "engine": "5.4",
@@ -82,7 +82,7 @@
   {
     "id": 5,
     "make": "BMW",
-    "title": "1997 BMW M3 Coupe",
+    "title": "BMW M3 Coupe",
     "description": "2 Owners, 5-Speed Manual, Rare 'Slicktop' Model",
     "mileage": "74,200",
     "engine": "3.2",
@@ -102,7 +102,7 @@
   {
     "id": 6,
     "make": "Ford",
-    "title": "2003 Ford Mustang SVT Cobra Convertible",
+    "title": "Ford Mustang SVT Cobra Convertible",
     "description": "6-Speed Manual, Supercharged V8, Dry-Climate-Owned, Numerous Modifications",
     "mileage": "142,900",
     "engine": "4.6",
@@ -122,8 +122,8 @@
   {
     "id": 7,
     "make": "Opel",
-    "title": "1992 Lotus Omega",
-    "description": "1992 Lotus Omega, Imperial Green with charcoal leather interior.",
+    "title": "Lotus Omega",
+    "description": "Lotus Omega, Imperial Green with charcoal leather interior.",
     "mileage": "68,000",
     "engine": "3.6",
     "year": "1992",
@@ -142,7 +142,7 @@
   {
     "id": 8,
     "make": "Audi",
-    "title": "1993 Audi S4",
+    "title": "Audi S4",
     "description": "5-Speed Manual, Turbocharged 5-Cylinder, AWD, Long-Term Owner",
     "mileage": "176,500",
     "engine": "2.2",

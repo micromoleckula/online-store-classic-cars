@@ -14,9 +14,11 @@ export async function articlesCars() {
           <img class="article__cars__img" src="${car.images[0]}" alt="${car.title}" data-images='${JSON.stringify(car.images)}'>
           <div class="article__cars__text">
             <h3 class="article__cars__title">${car.title}</h3>
-            <p class="article__cars__engine">${car.engine}L</p>
-            <p class="article__cars__description">${car.description}</p>
-            <p class="article__cars__mileage">${car.mileage} Kilometres</p>
+            <p class="article__cars__engine">${car.engine}L ${car.transmission} ${car.drivetrain}</p>
+            <div class="article__cars__info">
+              <p class="article__cars__year">${car.year}</p>
+              <p class="article__cars__mileage">${car.mileage} Kilometres</p>
+            </div>
             <p class="article__cars__price">${car.price}$</p>
           </div>
         </article>

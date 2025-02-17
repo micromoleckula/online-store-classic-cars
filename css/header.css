@@ -24,7 +24,7 @@
 .header__nav__menu {
   display: none;
   position: absolute;
-  top: 60px;
+  top: 80px;
   left: 0;
   width: 100%;
   background-color: #333;
@@ -112,10 +112,6 @@
 
 .hidden {
   display: none;
-}
-
-.scrolled {
-
 }
 
 @media screen and (min-width: 768px) {
