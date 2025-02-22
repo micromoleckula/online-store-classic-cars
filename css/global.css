@@ -7,7 +7,7 @@
 }
 
 :root {
-  --font-primary: 'Noto Sans', sans-serif;
+  --font-primary: "Noto Sans", sans-serif;
   --font-secondary: ; /* ПУСТО */
   --bg-color: #122112;
   --main-color: #ffffff;
